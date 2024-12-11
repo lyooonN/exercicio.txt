@@ -1,1 +1,1 @@
-http://127.0.0.1:5500/exercicio.html
+file:///C:/Users/lyon/C%EF%80%BAcurso_ebac_frontend/exercicio.html
